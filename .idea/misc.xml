@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/excel-poi/pom.xml" />
+        <option value="$PROJECT_DIR$/excel-easyexcel/pom.xml" />
       </list>
     </option>
   </component>
